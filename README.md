@@ -29,7 +29,7 @@ In summary, the data analyst's role extends across these pivotal realms, demandi
 ### **Project Goals**
 The overarching goals of this project are centered on augmenting Walmart's profitability through a detailed analysis across several key domains
 
-##**Dataset**
+## **Dataset**
 **People**
 |Column Name (People)| Description|
 |----------|------------|
