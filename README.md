@@ -73,6 +73,6 @@ The overarching goals of this project are centered on augmenting Walmart's profi
 |NumStorePurchases | Number of purchases made directly in stores|
 |NumWebVisitsMonth | Number of visits to the company’s website in the last month|
 
-## **Dasboard**
+## **Dashboard**
 Tableau: https://public.tableau.com/app/profile/sulthan.dhiaulhaq/viz/Walmart-Dashboard/CustomerSegment?publish=yes
 
